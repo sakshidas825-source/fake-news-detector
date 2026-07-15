@@ -55,6 +55,9 @@ Train/test split: 80/20 (35,918 train / 8,980 test articles), stratified by labe
 pip install -r requirements.txt
 streamlit run app.py
 ```
+#screenshot: <img width="959" height="539" alt="Screenshot 2026-07-15 141803" src="https://github.com/user-attachments/assets/3269ca75-c4e0-4378-a576-5914271839ce" />
+<img width="951" height="539" alt="Screenshot 2026-07-15 141748" src="https://github.com/user-attachments/assets/d0e441c8-a23e-4ca0-baaf-c3f0e700e01d" />
+
 
 ## Limitations
 
